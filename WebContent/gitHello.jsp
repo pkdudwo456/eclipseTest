@@ -10,6 +10,8 @@
 	<h1>gitHello.jsp</h1>
 	
 	<h2>master내용1</h2>
+	
+	<h2>second내용1</h2>
 
 </body>
 </html>
