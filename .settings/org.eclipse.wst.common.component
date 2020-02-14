@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="gitTest">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="gitTest"/>
         <property name="java-output-path" value="/gitTest/build/classes"/>
+=======
+    <wb-module deploy-name="gitTest2">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="gitTest2"/>
+        <property name="java-output-path" value="/gitTest2/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/pkdudwo456/eclipseTest.git
     </wb-module>
 </project-modules>
